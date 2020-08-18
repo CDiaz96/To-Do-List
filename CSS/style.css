@@ -1,0 +1,45 @@
+.deletedItem{
+  text-decoration: line-through;
+}
+body{
+  background-image: url(bulbback.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1{
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 5%;
+  padding-top: 5%;
+}
+#text{
+  font-size: 25px;
+}
+.form, #buttons{
+  text-align: center;
+}
+#save, #remove, #clear{
+  background-color: black;
+  color: white;
+  outline: none;
+  font-size: 18px;
+  margin-top: 2%;
+  border-radius: 10px;
+}
+#toDo{
+  margin-left: 30%;
+  font-size: 15px;
+}
+.holder{
+  background-color: rgba(246,246,246, 70%);
+  width: 50%;
+  height: auto;
+  margin-left: 5%;
+  padding-bottom: 5%;
+}
+.counter{
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
