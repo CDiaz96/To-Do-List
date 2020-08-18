@@ -1,4 +1,4 @@
-# ✅  Todo List
+# ✅  To-Do List
 
 This project allows the users to keep track of their To-Do items, while providing an aesthetically pleasing design.
 
