@@ -3,7 +3,7 @@
 This project allows the users to keep track of their To-Do items, while providing an aesthetically pleasing design.
 
 
-![To-Do Screenshot](/To-Do copy.png)
+![To-Do Screenshot](/To-Do.png)
 
 
 Tech used: HTML, CSS, and vanilla Javascript
